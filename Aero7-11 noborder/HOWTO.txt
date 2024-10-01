@@ -1,0 +1,1 @@
+To install, move everything inside of this folder except for this file to C:\Windows\Resources\Themes.
